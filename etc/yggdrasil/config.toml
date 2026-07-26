@@ -1,0 +1,5 @@
+protocol = "mqtt"
+server = ["wss://connect.cloud.redhat.com:443"]
+cert-file = "/etc/pki/consumer/cert.pem"
+key-file = "/etc/pki/consumer/key.pem"
+facts-file = "/var/lib/yggdrasil/canonical-facts.json"

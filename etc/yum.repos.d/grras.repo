@@ -1,0 +1,10 @@
+[AppStream]
+name=packages for app stream
+enabled=1
+gpgcheck=0
+baseurl=file:///myrepo/AppStream
+[BaseOS]
+name=packages for base os
+enabled=1
+gpgcheck=0
+baseurl=file:///myrepo/BaseOS

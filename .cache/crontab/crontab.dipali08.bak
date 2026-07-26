@@ -1,0 +1,1 @@
+35 10 *	* * /usr/bin/echo "Hello dipali" > grras.txt

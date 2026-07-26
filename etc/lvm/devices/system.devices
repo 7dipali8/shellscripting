@@ -1,0 +1,6 @@
+# LVM uses devices listed in this file.
+# Created by LVM command lvmdevices pid 2675 at Fri Jan 23 00:11:25 2026
+# HASH=546657667
+PRODUCT_UUID=ec3c3b6c-93c4-2c40-90d6-10b7bcb6c435
+VERSION=1.1.4
+IDTYPE=sys_wwid IDNAME=t10.ATA_VBOX_HARDDISK_VB7f35d437-7582b566 DEVNAME=/dev/sda3 PVID=CXBthCBeXQu39hlmHJzHIIqqSlGfYDW3 PART=3

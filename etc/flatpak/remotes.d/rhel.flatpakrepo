@@ -1,0 +1,9 @@
+[Flatpak Repo]
+Title=Red Hat Enterprise Linux
+Url=oci+https://flatpaks.redhat.io/rhel/
+AuthenticatorName=org.flatpak.Authenticator.Oci
+Homepage=https://catalog.redhat.com/software/containers/explore
+Comment=Red Hat Enterprise Linux Flatpak applications and runtimes
+Description=This repository contains Flatpaks of applications built for Red Hat Enterprise Linux, along with the Red Hat Flatpak Runtime and SDK.
+Icon=https://www.redhat.com/misc/favicon.ico
+CollectionID=com.redhat.Stable
